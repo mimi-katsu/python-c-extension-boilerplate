@@ -1,4 +1,4 @@
-> Once required scripts are built install your modulle with:
+> Once required scripts are built install your module with:
 
 python3 setup.py build
 python3 setup.py install 
